@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Epicedium, a funerall song, vpon the vertuous life, and godly death, of the right vvorshipfull the L
+
 #####Body#####
-Epicedium, a funerall song, vpon the vertuous life, and godly death, of the right vvorshipfull the L
+
+1. EPICEDIVM, In obitum illustriſſimae mulieris dominae Helenae Branch, vxoris multum venerandi equitis Iohannis Branch, quondam pernobilis ciuitatis Londini Maioris perquam honorabilis.
+
 **Types of content**
 
   * There are 156 **verse** lines!
